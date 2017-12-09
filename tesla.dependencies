@@ -1,13 +1,8 @@
 [
   {
-    "repository": "invisiblek/android_device_essential_mata_data-ipa-cfg-mgr",
-    "target_path": "device/essential/mata/data-ipa-cfg-mgr",
-    "branch": "cm-14.1"
-  },
-  {
-    "repository": "invisiblek/android_device_essential_mata_gps",
-    "target_path": "device/essential/mata/gps",
-    "branch": "cm-14.1"
+	"repository": "BigTopKrazies/proprietary_vendor_essential",
+	"target_path": "vendor/essential",
+	"branch": "n7.1"
   },
   {
     "repository": "GZR-Kernels/kernel_essential_msm8998",
