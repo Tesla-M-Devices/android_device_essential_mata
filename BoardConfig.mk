@@ -124,6 +124,9 @@ TARGET_KERNEL_CONFIG := lineageos_mata_defconfig
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 
+# Enable real time lockscreen charging current values
+BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
+
 # Lights
 TARGET_PROVIDES_LIBLIGHT := true
 
