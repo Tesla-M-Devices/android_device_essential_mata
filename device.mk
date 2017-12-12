@@ -256,7 +256,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Touchscreen
 PRODUCT_PACKAGES += \
     libtinyxml2
-
+  
+# Update engine		
+PRODUCT_PACKAGES += brillo_update_payload
+ 
 # Verity
 PRODUCT_SYSTEM_VERITY_PARTITION := /dev/block/bootdevice/by-name/system
 $(call inherit-product, build/target/product/verity.mk)
