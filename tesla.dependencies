@@ -5,9 +5,9 @@
 	"branch": "n7.1"
   },
   {
-    "repository": "GZR-Kernels/kernel_essential_msm8998",
+    "repository": "invisiblek/android_kernel_essential_msm8998",
     "target_path": "kernel/essential/msm8998",
-    "branch": "n7.1"
+    "branch": "cm-14.1"
   },
   {
     "repository": "invisiblek/android_kernel_essential_msm8998_drivers_staging_fw-api",
