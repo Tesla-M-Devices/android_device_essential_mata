@@ -1,13 +1,13 @@
 [
   {
-	"repository": "BigTopKrazies/proprietary_vendor_essential",
-	"target_path": "vendor/essential",
-	"branch": "n7.1"
+    "repository": "BigTopKrazies/proprietary_vendor_essential",
+    "target_path": "vendor/essential",
+    "branch": "n7.1"
   },
   {
-    "repository": "invisiblek/android_kernel_essential_msm8998",
+    "repository": "GZR-Kernels/kernel_essential_msm8998",
     "target_path": "kernel/essential/msm8998",
-    "branch": "cm-14.1"
+    "branch": "n7.1"
   },
   {
     "repository": "invisiblek/android_kernel_essential_msm8998_drivers_staging_fw-api",
