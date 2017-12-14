@@ -7,7 +7,7 @@
   {
     "repository": "GZR-Kernels/kernel_essential_msm8998",
     "target_path": "kernel/essential/msm8998",
-    "branch": "n7.1"
+    "branch": "n7.1-test"
   },
   {
     "repository": "invisiblek/android_kernel_essential_msm8998_drivers_staging_fw-api",
